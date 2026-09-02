@@ -12,9 +12,10 @@
 
 <table>
 <tr>
-<td width="40%" align="center">
+<td width="80%" align="center">
 
  <img width="735" height="1225" alt="cybersecurity brain" src="https://github.com/user-attachments/assets/56961623-dcec-4ff9-8c99-9d750ace175d" />
+
  
  <br><br>
 

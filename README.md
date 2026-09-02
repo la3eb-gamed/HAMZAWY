@@ -1,35 +1,106 @@
-> 👨🏻‍💻 Web Front-end Developer
+<div align="center">
 
-### Tech Stack
+# 👋 Hello, I'm YOUR_NAME
 
-- 🛠 Lang & Framework: Vue/React, Javascript
-- ⛏ Interest: Svelte, Typescript
+### 💻 Computer Science Student | Embedded Systems | Cyber Security
 
-### Latest posts from 📝 [xiaozhu.dev](https://xiaozhu.dev)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Embedded+Systems+Enthusiast;Cyber+Security+Learner;Always+Learning+Something+New" />
 
-- [深入了解现代浏览器工作原理（二）「译」](https://xiaozhu.dev/post/inside-look-at-modern-web-browser-2/) (2022-4-24)
-- [深入了解现代浏览器工作原理（一）「译」](https://xiaozhu.dev/post/inside-look-at-modern-web-browser-1/) (2022-4-22)
-- [前端开发环境 - Mac 篇](https://xiaozhu.dev/post/web-dev-mac-env/) (2021-3-25)
+</div>
 
-### TIL from 🗒 [til.xiaozhu.dev](https://til.xiaozhu.dev)
+---
 
-- [DNS 服务器分类和域名解析流程](https://til.xiaozhu.dev/network/dns-intro) (2021-9-16)
-- [Node.js 包管理器的管理器 Corepack 的介绍和使用](https://til.xiaozhu.dev/node/corepack) (2021-9-15)
-- [sticky 基本使用](https://til.xiaozhu.dev/css/position-sticky) (2021-9-11)
+<table>
+<tr>
+<td width="40%" align="center">
 
-### Portfolio
+<img src="YOUR_PROFILE_IMAGE_URL" width="250" />
 
-> *pending...*
+<br><br>
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
 
-<details>
-  <summary>Click👆</summary>
-  <pre>
-  🤷‍♂️
-  </pre>
-</details>
+</td>
 
-![build](https://github.com/mopig/mopig/workflows/build/badge.svg)
-![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
-![pv](https://pageview.vercel.app/?github_user=mopig)
+<td width="60%">
+
+## 👨‍💻 About Me
+
+🎓 Computer Science Student
+
+💻 Interested in **Embedded Systems & Cyber Security**
+
+🔧 I enjoy building hardware and software projects.
+
+🌱 Currently learning and improving my programming skills.
+
+⚡ I like working with **Arduino, ESP32, C++, Python and Linux.**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Skills
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js" />
+</p>
+
+### 🔧 Embedded Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+`ESP32` • `Arduino` • `Sensors` • `Electronics` • `Embedded C/C++`
+
+### 🐧 Cyber Security & Linux
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,kali,bash" />
+</p>
+
+`Networking` • `Linux` • `CCNA` • `Cyber Security Fundamentals`
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea" />
+</p>
+
+---
+
+# 🚀 Projects
+
+### 🔹 ESP32 Smart Home
+
+Smart home project using ESP32, sensors, LEDs and a buzzer.
+
+### 🔹 Bluetooth Controlled Car
+
+Arduino-based car controlled using Bluetooth.
+
+### 🔹 Web Development Projects
+
+Web projects using HTML, CSS, JavaScript and React.
+
+### 🔹 Embedded Systems Projects
+
+Different electronics and microcontroller projects using Arduino and ESP32.
+
+---
+
+# 📚 Currently Learning
+
+```text
+C++              ███████████████░░░░░
+Python            █████████████░░░░░░░
+Embedded Systems  █████████████░░░░░░░
+Cyber Security    ██████████░░░░░░░░░░
+Linux             ███████████░░░░░░░░░

@@ -14,7 +14,7 @@
 <tr>
 <td width="40%" align="center">
 
-  <img width="735" height="488" alt="hello freind🌚💻" src="https://github.com/user-attachments/assets/eb52c112-85af-4282-881d-90d90714f1fa" />
+  <img width="735" height="500" alt="hello freind🌚💻" src="https://github.com/user-attachments/assets/eb52c112-85af-4282-881d-90d90714f1fa" />
 
 
 <br><br>

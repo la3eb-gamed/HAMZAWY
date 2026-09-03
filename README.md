@@ -14,7 +14,7 @@
 <tr>
 <td width="40%" align="center">
 
-<img width="800" height="1200" alt="whoami" src="https://github.com/user-attachments/assets/75fc825f-b658-4c0c-ac7e-06a778354f7f" />
+<img width="750" height="1250" alt="whoami" src="https://github.com/user-attachments/assets/75fc825f-b658-4c0c-ac7e-06a778354f7f" />
 
 
 

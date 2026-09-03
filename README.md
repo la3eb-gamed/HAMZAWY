@@ -14,8 +14,7 @@
 <tr>
 <td width="40%" align="center">
 
-<img width="750" height="1250" alt="whoami" src="https://github.com/user-attachments/assets/75fc825f-b658-4c0c-ac7e-06a778354f7f" />
-
+  <img width="735" height="488" alt="hello freind🌚💻" src="https://github.com/user-attachments/assets/eb52c112-85af-4282-881d-90d90714f1fa" />
 
 
 <br><br>
@@ -26,7 +25,7 @@
 
 </td>
 
-<td width="80%">
+<td width="60%">
 
 ## 👨‍💻 About Me
 

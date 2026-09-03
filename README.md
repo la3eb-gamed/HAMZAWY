@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm YOUR_NAME
+# 👋 Hello, I'm Hamza Elsawy
 
 ### 💻 Computer Science Student | Embedded Systems | Cyber Security
 
@@ -19,7 +19,7 @@
  
  <br><br>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/HAMZAWY">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 

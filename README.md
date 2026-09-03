@@ -14,7 +14,9 @@
 <tr>
 <td width="40%" align="center">
 
- <img width="735" height="1225" alt="cybersecurity brain" src="https://github.com/user-attachments/assets/56961623-dcec-4ff9-8c99-9d750ace175d" />
+<img src="![Uploading cybersecurity brain.jpg…]()
+" width="250" />
+
 <br><br>
 
 <a href="https://github.com/HAMZAWY">
@@ -87,7 +89,7 @@ Arduino-based car controlled using Bluetooth.
 
 ### 🔹 Web Development Projects
 
-Web projects using HTML, CSS, JavaScript and React.
+Web projects using HTML, CSS and JavaScript.
 
 ### 🔹 Embedded Systems Projects
 

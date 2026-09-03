@@ -14,7 +14,7 @@
 <tr>
 <td width="40%" align="center">
 
-img src = < img width="736" height="1308" alt="whoami" src="https://github.com/user-attachments/assets/d0c5f187-152c-4c7b-9fbf-b956d2603b0e" />
+<img src =  img width="736" height="1308" alt="whoami" src="https://github.com/user-attachments/assets/d0c5f187-152c-4c7b-9fbf-b956d2603b0e" />
 
 
 <br><br>

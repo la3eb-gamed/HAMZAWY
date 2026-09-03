@@ -14,19 +14,18 @@
 <tr>
 <td width="40%" align="center">
 
-<img src="![Uploading cybersecurity brain.jpg…]()
-" width="250" />
+<img src =  img width="736" height="1308" alt="whoami" src="https://github.com/user-attachments/assets/d0c5f187-152c-4c7b-9fbf-b956d2603b0e" />
+
 
 <br><br>
 
-<a href="https://github.com/HAMZAWY">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 
 </td>
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/386705d4-3452-4913-894a-6865aaae4f98" />
-
+<td width="60%">
 
 ## 👨‍💻 About Me
 

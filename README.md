@@ -20,6 +20,7 @@
 <a href="https://github.com/HAMZAWY">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
+
 </td>
 
 <td width="60%">

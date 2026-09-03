@@ -26,7 +26,7 @@
 
 </td>
 
-<td width="60%">
+<td width="80%">
 
 ## 👨‍💻 About Me
 

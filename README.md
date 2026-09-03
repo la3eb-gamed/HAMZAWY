@@ -14,13 +14,12 @@
 <tr>
 <td width="40%" align="center">
 
- <img width="735" height="1500" alt="cybersecurity brain" src="https://github.com/user-attachments/assets/56961623-dcec-4ff9-8c99-9d750ace175d" />
+ <img width="735" height="1225" alt="cybersecurity brain" src="https://github.com/user-attachments/assets/56961623-dcec-4ff9-8c99-9d750ace175d" />
 <br><br>
 
 <a href="https://github.com/HAMZAWY">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
-
 </td>
 
 <td width="60%">

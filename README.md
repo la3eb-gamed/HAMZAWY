@@ -12,15 +12,15 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="40%" align="center">
 
-<img width="736" height="1600" alt="whoami" src="https://github.com/user-attachments/assets/75fc825f-b658-4c0c-ac7e-06a778354f7f" />
+<img width="800" height="1200" alt="whoami" src="https://github.com/user-attachments/assets/75fc825f-b658-4c0c-ac7e-06a778354f7f" />
 
 
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/HAMZAWY">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 
